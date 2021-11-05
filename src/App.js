@@ -1,10 +1,13 @@
-import './App.css';
+import Home from "./pages/home/Home";
+import GlobalStyle from './StyledGlobal'
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <>
+    <GlobalStyle>
+      <Home/>
+    </GlobalStyle>
+    </>
   );
 }
 
