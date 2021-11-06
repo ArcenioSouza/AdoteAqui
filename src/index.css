@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Ephesis&family=Henny+Penny&family=Rancho&display=swap");
+
+:root {
+  --primary: #cef6e3;
+  --secondary: #a3c2b3;
+  --third: #3f755c;
+  --font1: "David Libre", serif;
+  --font2: "Ephesis", cursive;
+  --font3: "Henny Penny", cursive;
+  --font4: "Rancho", cursive;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

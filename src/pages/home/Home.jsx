@@ -1,11 +1,12 @@
 import React from 'react'
-import * as S from './Styled'
+import Header from '../../components/header/Header'
+import * as S from "./home.module.css"
 
 const Home = () => {
    return (
-      <S.Container>
-         
-      </S.Container>
+      <div className={S.container}>
+         <Header/>
+      </div>
    )
 }
 
