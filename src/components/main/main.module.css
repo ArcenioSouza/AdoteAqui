@@ -10,4 +10,10 @@
    width: 23%;
    margin: 1%;
    height: 400px;
+   padding: 3px;
+   box-shadow: 5px 5px 5px var(--secondary);
+}
+
+.container img:hover{
+   border: 3px inset var(--secondary);
 }
