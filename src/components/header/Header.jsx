@@ -9,7 +9,6 @@ const Header = () => {
         <img src={Logo} alt="Logotipo" />
         <h1> Adote Aqui</h1>
       </div>
-
       <ul>
         <li>Home</li>
         <li>Sobre</li>
