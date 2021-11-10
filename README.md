@@ -10,7 +10,9 @@ Projeto de aula do curso da Resilia Educação.
 
 [ok] - Praticar a criação de components em React;
 
-[ok] - Praticar a criação de form controlado;
+[] - Praticar a criação de form controlado;
+
+[] - Praticar o uso do useState para controlar a interação entre as páginas.
 
 [ok] - Praticar o conceito de flexbox para organização do layout da página;
 
